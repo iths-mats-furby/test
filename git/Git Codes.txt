@@ -1,0 +1,10 @@
+https://git-scm.com/book/sv/v2/
+
+Stå i rätt directory
+git add .	addera till directory
+git status	se vilka som är incheckade
+git commit	beskriv de som jag vill committa
+git branch
+git merge "namn"
+git log		se historia
+mkdir "name"	gör ett nytt directory
